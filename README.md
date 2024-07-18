@@ -5,7 +5,7 @@ Node, Express, and Openai Api. It'll be deployed on **onrender** and uses MongoD
 
 ### Attention
 
-This app is still in development. It is not fully functional yet. I will be adding more features.
+This app is still in development, Or can Say [**Intial phase**]. It is not fully functional yet. I will be adding more features.
 
 # Features
 
